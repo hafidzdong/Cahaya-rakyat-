@@ -16,4 +16,4 @@
 
 1. Unduh atau clone repository ini:
    ```bash
-   git clone https://github.com/username/cahaya-rakyat.git
+   git clone https://github.com/hafidzdah/cahaya-rakyat.git
